@@ -23,6 +23,7 @@ body {
 
 h1 {
 font-size: 50px;
+color: darkbrown;
 }
 
 a {
@@ -31,7 +32,7 @@ a {
 }
 
 a:hover {
-    color: darkgray;
+    color: beige;
 }
 
 .container {
@@ -50,7 +51,7 @@ cursor: pointer;
 flex: 0.5;
 margin: 10px;
 position: relative;
--webkit-transition: all 700ms ease-in;
+-webkit-transition: all 700ms ease-in-out;
 }
 
 .panel h3 {
