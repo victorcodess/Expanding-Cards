@@ -12,6 +12,26 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  background-color: beige;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1 {
+font-size: 50px;
+}
+
+a {
+    color: #fff;
+    transition: color 0.3s ease-in;
+}
+
+a:hover {
+    color: darkgray;
 }
 
 .container {
@@ -34,7 +54,7 @@ position: relative;
 }
 
 .panel h3 {
-    font-size: 24px;
+    font-size: 40px;
     position: absolute;
     bottom: 20px;
     left: 20px;
