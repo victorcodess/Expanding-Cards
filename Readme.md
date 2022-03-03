@@ -13,5 +13,5 @@ This is a project form a course by Brad Traversy.
 I learn about CSS transitions and how to make a transition seamless by manipulating the speed and duration of the transition. I also learnt about flex-box and flex directions. 
 
 #### JavaScript
-I learnt a about JavaScript DOM manipulations using query selctors.
+I learnt a about JavaScript DOM manipulations using query selectors.
 I also learnt about event listeners, which added a class to a card when the user clicks the card.  
